@@ -1,0 +1,39 @@
+body {
+    background-color: #000000;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    margin: 25px 20px;
+    
+}
+
+.tilulo__pagina {
+    color: #e7d109;
+    font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+h2{
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.conteudo__jogo{
+    color: #FFFFFF;
+    margin: 0 10px;
+
+}
+
+.conteudo__pagina{
+    display: flex;
+    
+}
+
+.jogo__freeway {
+    width: 72em;
+    height: 25em;
+    margin-right: 10px;
+    
+}
